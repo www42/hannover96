@@ -1,4 +1,0 @@
-@{
-AllNodes = @()
-NonNodeData = ""
-}
